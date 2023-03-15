@@ -1,3 +1,3 @@
 console.log("tesdajijasdsdjasdji");
-console.log("Commit na branchMaster");
+console.log("Commit na branch");
 console.log("commit 2");
